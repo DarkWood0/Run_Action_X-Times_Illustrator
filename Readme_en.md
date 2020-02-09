@@ -6,7 +6,7 @@ This script allows you to run selected action the specified number of times. The
 
 # Running script
 
-Click on the "Raw" button. A separate page with script source code opens. Save it in a convenient place. Copy downloaded file to the folder ```C:\Program Files\Adobe\Adobe Illustrator XX\Presets\en_US\Scripts```, where XX is version of program. After that, script can be launched with command File> Scripts> Run_Action_X_Times.
+Open file "Run_Action_X_Times.jsx". Click on the "Raw" button. A separate page with script source code opens. Save it in a convenient place. Copy downloaded file to the folder ```C:\Program Files\Adobe\Adobe Illustrator XX\Presets\en_US\Scripts```, where XX is version of program. After that, script can be launched with command File> Scripts> Run_Action_X_Times.
 
 # How it works
 
